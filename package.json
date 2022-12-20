@@ -1,5 +1,8 @@
 {
-  "name": "antimatter",
+  "name": "@adapass182/otter",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/adapass182"
+  },
   "version": "0.1.0",
   "description": "Personal Component Library",
   "main": "dist/cjs/index.js",
